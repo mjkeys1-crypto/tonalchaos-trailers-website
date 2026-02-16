@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonalchaostrailers.com/sitemap.xml
